@@ -1,4 +1,5 @@
-# Hardcoded values for the season and plant type
+# Will ask user what season it is and what type of plant to provide
+# advice on how to treat the plant to its respective season
 
 season = input("What is the season: ")  # Added input for user interaction
 plant_type = input("What is the plant type: ") # Added input for user interaction
